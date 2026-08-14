@@ -196,9 +196,6 @@ Because fraudulent transactions are highly underrepresented in the dataset, the 
 
 Using class_weight="balanced" helps the model give greater importance to the minority fraud class.
 
-## 🔗 Machine Learning Pipeline
-
-The preprocessing and model were combined into a single Scikit-learn Pipeline:
 
 ## 🔗 Machine Learning Pipeline
 
