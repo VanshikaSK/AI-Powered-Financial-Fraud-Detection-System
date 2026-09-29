@@ -1,6 +1,7 @@
 # AI-Powered-Financial-Fraud-Detection-System
 ## 📌 Project Overview
 
+Live link: https://ai-powered-financial-fraud-detection-system-bj9i2xjrmpavl3e6qf.streamlit.app/
 The AI-Powered Financial Fraud Detection System is a machine learning-based application designed to identify potentially fraudulent financial transactions.
 
 The project combines data analysis, exploratory data analysis (EDA), feature engineering, machine learning, and Streamlit deployment to build an interactive fraud detection system.
