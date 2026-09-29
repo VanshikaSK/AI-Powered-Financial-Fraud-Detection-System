@@ -1,0 +1,6 @@
+   pandas
+   numpy
+   scikit-learn
+   streamlit
+   joblib
+   scikit-learn==1.8.0
